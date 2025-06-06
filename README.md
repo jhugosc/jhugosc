@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="150" src="https://i.gifer.com/1I0z.gif"  />
-</div>
-
-###
 
 <h2 align="center">Hey there! 👋 Welcome to my GitHub profile!</h2>
 
@@ -47,13 +42,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhugovtz/jhugovtz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhugovtz/jhugovtz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jhugovtz/jhugovtz/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
